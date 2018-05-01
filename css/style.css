@@ -3,4 +3,5 @@
    height: 400px;
    background-color: #999;
    background-image: url('../img/sprite.jpg');
+   background-repeat: no-repeat;
 }
